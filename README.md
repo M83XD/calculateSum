@@ -1,1 +1,1 @@
-# calculateSum
+# Bu örnekte, calculateSum işlevi, function anahtar sözcüğü kullanılarak tanımlanır. Düğme tıklandığında, işlev, kullanıcıdan iki sayı istemek için iki kez istem yöntemini kullanır. Kullanıcı tarafından girilen değerler num1 ve num2 değişkenlerinde saklanır. Bu sayıların toplamı hesaplanır ve sum değişkeninde saklanır. Son olarak, "Toplam: [toplam]" metnini içeren bir uyarı mesajı görüntülenir; burada [toplam], hesaplanan toplamdır. Düğmenin onclick özelliği, düğme tıklandığında hesaplaSum işlevini çağıracak şekilde ayarlanmıştır.
